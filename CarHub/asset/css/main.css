@@ -1,0 +1,241 @@
+@font-face {
+    font-family: 'Monument Extended';
+    src: url('MonumentExtended-Ultrabold.woff2') format('woff2'),
+        url('MonumentExtended-Ultrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monument Extended';
+    src: url('MonumentExtended-Regular.woff2') format('woff2'),
+        url('MonumentExtended-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+    width: 100%;
+    font-family: 'Monument Extended';
+    font-weight: normal;
+    background: #000;
+    color:#fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+#container{
+    height: 100%;
+    width: 100%;
+    background: ;
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    width: 100%;
+    background: red;
+    flex:3;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 70px 30px;
+}
+
+.header .title h1{
+    font-size: 90px;
+    font-weight: normal;
+}
+
+.header .title{
+    flex:4;
+    background: green;
+}
+
+.title-bottom{
+    display: flex;
+    justify-content: flex-end;
+    background-color: coral;
+}
+
+.title-bottom h2{
+    padding-left: 40px;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+
+.header nav{
+    flex:2;
+}
+
+.header nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;;
+}
+
+.header nav ul li{
+  margin-right: 20px;
+}
+
+.header nav ul li a{
+  font-size: 17px;
+    color: #fff;
+}
+
+.about{
+    width: 100%;
+    background: blue;
+    flex:5;
+}
+
+.nese{
+    width: 300px;
+    height: 340px;
+    background: gray;
+}
+
+.works{
+    width: 100%;
+    background: red;
+    flex:5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.works h1{
+    font-size: 100px;
+    font-weight: normal;
+}
+
+.box{
+    height: 400px;
+    width: 100%;
+    background-color: deeppink;
+}
+.resume{
+    width: 100%;
+    background: blue;
+    flex:3;
+}
+
+.contact{
+    width: 100%;
+    background: red;
+    flex:3;
+}
+
+.footer{
+    width: 100%;
+    background: blue;
+    flex:1;
+}
+
+
+
+
+
+ /*--- h1{
+    font-size: 90px;
+    font-weight: normal;
+}
+
+.header {
+    width: 100%;
+    left: 0;
+    top:0;
+    display: -webkit-flex: ;
+    display: -moz-flex: ;
+    display: -ms-flex: ;
+    display: -o-flex: ;
+    display: flex ;
+    justify-content: space-between;
+    align-items: flex-start; 
+    padding: 70px 70px 2px 70px;;
+}
+
+nav{
+
+}
+
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    cursor:pointer;
+    transition: 0.5s;
+}
+
+
+nav ul li a:hover{
+    text-decoration: line-through;
+    text-decoration:;
+}
+
+.about{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+}
+
+.about h2{
+    font-weight: normal;
+    padding-left: 40px;
+    font-size: 17px;
+} ---*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
