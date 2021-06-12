@@ -1,0 +1,298 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+    font-family: sans-serif;
+    color: #6e6e6e;
+}
+
+a{
+    text-decoration: none;
+    color: #6a6a6c;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f4f4f4;
+    color: #6a6a6c;
+    height: 60px;
+    width: 100%;
+    padding: 0px 70px;
+}
+
+.nav h1{
+    font-size: 35px;
+}
+
+
+.nav ul{
+    
+}
+
+.nav ul li{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.nav ul li a{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.slider{
+    height: 300px;
+    background: #fff;
+    color: #6e6e6e;
+    margin: 80px 0px;
+}
+
+.slider h1{
+    font-size: 60px;
+}
+
+
+.slider p{
+    font-size: 20px;
+    padding: 30px 0px;
+}
+
+.slider button{
+    background: #a8a8a8;
+    font-size: 17px;
+    padding: 10px 35px;
+    border: none;
+    color: #fff;
+}
+
+.slider-image{
+    height: 300px;
+    background-color: #eaeaea;
+    margin: 80px 0px;
+}
+
+.custom{
+    width: 100%;
+    height: 600px;
+    background: #f4f4f4;
+}
+
+.custom-box{
+    background: #fff;
+    height: 400px;
+    margin: 40px 20px;
+    text-align: center;
+}
+
+.custom-box h3{
+    padding: 30px;
+    font-size: 20px;
+}
+
+.custom-box p{
+    padding: 0px 20px;
+}
+
+.custom-box-image{
+    background: #dfdfdf;
+    height: 50%;
+}
+
+.custom h2{
+    padding: 70px 20px 0px 20px;
+}
+
+.slogan{
+    width: 100%;
+    height: 300px;
+}
+
+.slogan-text{
+    height: 300px;
+    text-align: center;
+    padding: 40px;
+}
+.slogan-text h1{
+    padding-top: 2px;
+    font-size: 50px;
+}
+
+.slogan-text h2{
+    padding:0px 70px;
+    font-weight: 300;
+}
+.slogan-text p{
+    padding: 20px;
+}
+
+.our-portfolio{
+    width: 100%;
+    height: 500px;
+    background: #f4f4f4;
+    padding: 50px 30px;
+}
+
+.our-portfolio-image{
+    height: 300px;
+    background-color: #eaeaea;
+    margin-top: 50px;
+}
+
+.our-portfolio-text p{
+    padding: 50px 0px;;
+    font-size: 17px;
+    line-height: 1.5;
+    text-align: left;
+    
+}
+
+.our-portfolio-text button{
+    background: #a8a8a8;
+    font-size: 15px;
+    padding: 14px 35px;
+    border: none;
+    color: #fff;
+    margin-top: 0px;
+}
+
+.team{
+    width: 100%;
+    height: 400px;
+    background: #fff;
+    padding: 50px 30px;
+}
+.our-team{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+.team-box{
+    width:200px;
+    height:250px;
+    padding: 20px 0px;
+}
+
+.team-box h3{
+    padding: 10px 0px;
+}
+
+.team-box-photo{
+    width:100%;
+    height:200px;
+    background: #eaeaea;
+}
+
+.blog{
+    width: 100%;
+    height: 600px;
+    background: #fff;
+    padding: 50px 30px;
+}
+
+.blog-box{
+    background: #d9dade;
+    height: 400px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.blog-box-image{
+    height: 50%;
+    background: #eaeaea;
+}
+
+.blog-box h3{
+    padding: 20px 0px;
+}
+
+.blog-box p{
+    padding: 0px 40px;
+}
+
+.pricing{
+    width: 100%;
+    height: 600px;
+    background: #f4f4f4;
+    padding: 50px 30px;
+}
+
+.pricing-box{
+    height: 400PX;
+    background: #fff;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.pricing-box h3{
+    color: #fff;
+    background: #aaaaaa;
+    padding: 20px;
+}
+.pricing-box h1{
+    color: #5c5b60;
+    padding: 30px;
+    font-size: 50px;
+}
+.pricing-box p{
+    color: #000;
+    background: #dbdbdb;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.pricing-box button{
+    background: #a8a8a8;
+    font-size: 15px;
+    padding: 14px 35px;
+    border: none;
+    color: #fff;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
