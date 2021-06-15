@@ -1,2 +1,4 @@
 
-# PragmatechFoundation-Project
+# Mehrab Mehraliyev
+ ## Haqqımda qısa məlumat
+
